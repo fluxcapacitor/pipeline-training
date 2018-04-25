@@ -1,1 +1,1 @@
-THIS REPO HAS MOVED TO https://pipeline.ai
+THIS REPO HAS MOVED TO https://github.com/PipelineAI/pipeline
